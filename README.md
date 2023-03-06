@@ -6,11 +6,11 @@
 ### I am...
 
 - 17 Years Old 🧑🏽
-- Aspiring to become a Software Engineer at the University of Waterloo 💻
-- An avid learner 🧠
+- Aspiring to become a Software Engineer💻
+- 4 Time Major League Hacking Hackathon Winner
 - Chess lover
 - Cricket, Basketball enjoyer ⚽
 - A full stack developer 🎮
 - Learning Machine Learning, Data Science, Web development(HTML, CSS, JS), App development(Kotlin, XML), Game development(C#)
-- Currently creating websites, creating a school hackathon, and working on a startup to help startups 🏪
+- Currently creating websites, creating a school hackathon, and working on a startup to help startups with online/social media marketing 🏪
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayaanT&langs_count=5&theme=dracula&layout=compact)](https://github.com/ShayaanT)

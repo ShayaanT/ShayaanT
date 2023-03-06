@@ -5,7 +5,7 @@
 
 ### I am...
 
-- An 18 Year Old student at Milton District High School with a drive to make an impact
+- An 18 Year Old student with a drive to create solutions and make an impact
 - Aspiring to become a Software Engineer💻
 - 4 Time Major League Hacking Hackathon Winner
 - Chess lover

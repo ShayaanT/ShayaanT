@@ -5,7 +5,7 @@
 
 ### I am...
 
-- 17 Years Old 🧑🏽
+- An 18 Year Old student at Milton District High School with a drive to make an impact
 - Aspiring to become a Software Engineer💻
 - 4 Time Major League Hacking Hackathon Winner
 - Chess lover
